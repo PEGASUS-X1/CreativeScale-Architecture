@@ -21,13 +21,4 @@ Antes de dar click revisa los tutolriales que se ecuentran mas abajo:
 
 ## Registro
 
-
-## Instalación
-##uso
-Proporciona instrucciones detalladas sobre cómo instalar tu proyecto en el entorno del usuario. Esto podría incluir comandos de línea de comandos, configuraciones, etc.
-
-```bash
-# Ejemplo de comandos de instalación
-git clone https://github.com/tu-usuario/tu-proyecto.git
-cd tu-proyecto
-npm install
+[screencast--2023.10.07-13_18_30.webm](https://github.com/PEGASUS-X1/CreativeScale-Architecture/assets/147075993/42571b39-5c50-480a-8810-392596a17cea)
